@@ -59,7 +59,7 @@ Below is a sample of the output . User input is prefixed with `enter command:`.
 	enter command: Q
 
 
-##Build and Run
+## Build and Run
 ```yaml
  mvn clean install
  
